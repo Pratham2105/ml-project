@@ -1,0 +1,4 @@
+mintemp,maxtemp,humidity,windspeed,winddirection,Rainfall,RainTomorrow
+21.1,32.3,89,12.4,N,3.2,Yes
+19.8,30.5,85,10.0,NE,0.0,No
+18.5,29.0,78,8.2,E,0.0,No
